@@ -250,12 +250,12 @@ header .navbar ul li a:hover{
 }
 
 .education .box-container{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex-wrap: wrap;
-    padding:1rem 0;
-    padding-left: 3rem;
+    display:list-item;
+    align-items:center;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    padding:2rem 0;
+    padding-left: 10rem;
 }
 
 .education .box-container .box{
